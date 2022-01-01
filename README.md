@@ -1,7 +1,8 @@
 # image-blur-classification
-classification of blurred / non-blurred images
 
-*CERTH Image Blur Dataset**
+This repo contains a script to classify images between blurred / non-blurred images
+
+**CERTH Image Blur Dataset**
 
 > E. Mavridaki, V. Mezaris, "No-Reference blur assessment in natural images using Fourier transform and spatial pyramids", Proc. IEEE International Conference on Image Processing (ICIP 2014), Paris, France, October 2014.
 
